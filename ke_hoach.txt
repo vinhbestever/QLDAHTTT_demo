@@ -6,4 +6,5 @@ Close door
 Go to beg
 Wake up
 Play phone
+Go Shopping
 
