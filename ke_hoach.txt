@@ -5,3 +5,5 @@ Drink coffee
 Close door
 Go to beg
 Wake up
+Play phone
+
